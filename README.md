@@ -44,8 +44,8 @@
 
 
 ### 파이썬 Pandas 사용하기(2)
-* 1. Pandas Series, DataFrame 기초 설명
-* 2. Pandas Series, DataFrame 실습
-* 3. Pandas_datareader로 주식(증권) 데이터 가져오기
-* 4. Pandas로 차트(Chart) 그려보기
+* 1.Pandas Series, DataFrame 기초 설명
+* 2.Pandas Series, DataFrame 실습
+* 3.Pandas_datareader로 주식(증권) 데이터 가져오기
+* 4.Pandas로 차트(Chart) 그려보기
 	* matplotlib **[바로가기](https://matplotlib.org/tutorials/introductory/sample_plots.html)**
