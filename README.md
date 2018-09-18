@@ -37,7 +37,7 @@
 * 2.CSV 데이터 간단 개요
 * 3.파이썬 Pandas로 CSV 데이터 읽고쓰기
 * 4.파이썬 Pandas로 CSV 데이터 편집하기
-	* CSV **[바로가기](https://ko.wikipedia.org/wiki/CSV_(%ED%8C%8C%EC%9D%BC_%ED%98%95%EC%8B%9D)**
+	* CSV **[바로가기](https://ko.wikipedia.org/wiki/CSV_(%ED%8C%8C%EC%9D%BC_%ED%98%95%EC%8B%9D))**
 	* Pandas **[바로가기](http://pandas.pydata.org/)**
 
 
